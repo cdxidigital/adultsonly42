@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-NZYk81nU.js";var t=e(),n=()=>(0,t.jsxs)(`div`,{className:`px-5 py-16`,children:[(0,t.jsx)(`h1`,{className:`font-display text-3xl tracking-wide uppercase`,children:`Unknown desk`}),(0,t.jsx)(`p`,{className:`mt-2 text-muted`,children:`That section is not in the index.`})]});export{n as notFoundComponent};
