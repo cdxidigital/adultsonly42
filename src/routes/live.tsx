@@ -80,6 +80,14 @@ function LivePage() {
         <p className="mt-4 max-w-md text-sm leading-relaxed text-ivory/80">
           Studio hire for capture and directed stills — not a streaming tube. Two-hour minimum. 12:00–22:00. Signed talent only.
         </p>
+        <a
+          href="https://webcams.fleshsesh.com"
+          target="_blank"
+          rel="noreferrer"
+          className="mt-5 inline-flex min-h-11 items-center border border-heat px-4 font-display text-xs tracking-widest text-heat uppercase hover:bg-heat hover:text-navy"
+        >
+          View live cams
+        </a>
       </PageHero>
 
       <section className="grid gap-8 px-5 py-12 md:grid-cols-2 md:px-10">
